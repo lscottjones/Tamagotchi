@@ -11,7 +11,7 @@ var createPet = function (){
 var pet = createPet()
 alert(pet)
 
-//play function
+//play function //////
 var play = function (){
     pet.food = pet.food -1
     pet.energy = pet.energy -1
